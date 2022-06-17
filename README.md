@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📫 How to reach me **harshbsi567@gmail.com**
+- 📫 How to reach me **harshbsi567@gmail.com** <a href="https://bio.link/harsh1x4">Bio</a>
 
 - ⚡ Fun fact **I think....**
 
