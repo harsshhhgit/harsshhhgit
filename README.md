@@ -9,5 +9,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsh1x4.harsh1x4)
 
 ## Stats
-[![Harsh1x4's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh1x4&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh1x4's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh1x4&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1x4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
