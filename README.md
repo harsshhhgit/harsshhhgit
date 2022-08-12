@@ -7,3 +7,6 @@
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=white) ![](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=red) ![](https://img.shields.io/badge/oracle-ed1c24?style=for-the-badge&logo=oracle&logoColor=white)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsh1x4.harsh1x4)
+
+### Stats
+[![Harsh1x4's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh1x4)](https://github.com/anuraghazra/github-readme-stats)
