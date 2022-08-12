@@ -10,4 +10,4 @@
 
 ## Stats
 [![Harsh1x4's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh1x4&show_icons=true&bg_color=90,c6ffdd,fbd786,f7797d)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1x4&layout=compact&bg_color=90,c6ffdd,fbd786,f7797d&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1x4&layout=compact&bg_color=90,fffbd5,b20a2c&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
