@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/harsh1x4/harsh1x4/blob/main/BannerHighResGithub.png" />
+</p>
+
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Harsh!](https://bio.link/harsh1x4)
 <!-- <h3 align="center">A Student from India</h3> -->
 
