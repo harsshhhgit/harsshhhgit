@@ -23,11 +23,12 @@
 <a href="https://github.com"><img src="https://svgshare.com/i/gVT.svg" width="40px" height="40"/></a>
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harsh1x4&theme=react-dark)
+
 
 ## Stats📈
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harsh1x4&theme=react-dark&hide_border=true)
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harsh1x4&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh1x4&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1x4&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harsh1x4&show_icons=true&theme=noctis_minimus&hide_border=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh1x4&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1x4&layout=compact&theme=noctis_minimus&hide_border=true&show_icons=true" />
 </p>
