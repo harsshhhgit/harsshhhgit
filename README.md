@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/harsh1x4/" target="_blank"><img src="https://github.com/harsh1x4/harsh1x4/blob/main/BannerHighResGithub.png" alt="banner"></a>
 </p>
 
-## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png" width="30">](https://bio.link/harsh1x4)
+## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30">](https://bio.link/harsh1x4)
 ### [Connect with me 💬](https://bio.link/harsh1x4)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsh1x4.harsh1x4)
 
