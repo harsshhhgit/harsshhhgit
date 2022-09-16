@@ -3,7 +3,8 @@
 </p>
 
 ## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30">](https://bio.link/harsh1x4)
-### [Connect with me 💬](https://bio.link/harsh1x4)
+<a href = "https://www.linkedin.com/in/harsh1x4"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://twitter.com/harsh1x4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsh1x4.harsh1x4)
 
 ## Frameworks and Tools I'm interested in
