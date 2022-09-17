@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/harsh1x4/" target="_blank"><img src="https://github.com/harsh1x4/harsh1x4/blob/main/BannerHighResGithub.png" alt="banner"></a>
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="Banner by halfrost">
+<!--<a href="https://www.linkedin.com/in/harsh1x4/" target="_blank"><img src="https://github.com/harsh1x4/harsh1x4/blob/main/BannerHighResGithub.png" alt="banner"></a>-->
 </p>
 
 ## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30">](https://bio.link/harsh1x4)
