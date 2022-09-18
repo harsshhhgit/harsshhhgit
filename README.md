@@ -22,8 +22,10 @@
 <a href="https://github.com"> <img src="https://svgshare.com/i/gVT.svg" width="48" height="48"/></a>
 <a href="" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" /></a>
 
-## Stats📈
+## Github Contribution Graph📈
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harsh1x4&theme=react-dark&hide_border=true)
+
+## Github stats, Current Streak and Most Used Languages
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harsh1x4&show_icons=true&theme=noctis_minimus&hide_border=true&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh1x4&theme=radical&hide_border=true" />
