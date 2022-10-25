@@ -35,8 +35,8 @@
 [![@harsh1x4's Holopin board](https://holopin.io/api/user/board?user=harsh1x4)](https://holopin.io/@harsh1x4)
 
 <div>
-<img src="https://user-images.githubusercontent.com/93096721/197665984-e088140f-8f9a-4abd-8e88-664b981ae188.jpg" alt="Pankaj Tripathi" width=450>
-<img src="https://user-images.githubusercontent.com/93096721/197666393-bd44e123-22a6-46b1-ba86-693a756869f1.jpg" width=450>
+<img src="https://user-images.githubusercontent.com/93096721/197665984-e088140f-8f9a-4abd-8e88-664b981ae188.jpg" alt="Pankaj Tripathi" width=420>
+<img src="https://user-images.githubusercontent.com/93096721/197666393-bd44e123-22a6-46b1-ba86-693a756869f1.jpg" width=420>
 </div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Wave"></p>
