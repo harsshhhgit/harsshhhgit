@@ -6,7 +6,8 @@
 ## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30">](https://g.dev/harsh1x4)
 <a href = "https://www.linkedin.com/in/harsh1x4"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://twitter.com/harsh1x4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsh1x4.harsh1x4)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsh1x4.harsh1x4)<br>
+![visitors](https://count.getloli.com/get/@harsh1x4.github.readme)
 
 ### 🛠 Frameworks and Tools I'm interested in
 
