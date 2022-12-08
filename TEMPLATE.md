@@ -26,7 +26,7 @@ Ever since I joined GitHub {{ ACCOUNT_AGE }} years ago, I pushed {{ COMMITS }} c
 <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" /></a>
 
 ### 📈 Github Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harsh1x4&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harsh1x4&theme=react-dark&hide_border=true)
 
 ### ⚙️ Github Analytics
 <p align="center">
