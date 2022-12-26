@@ -36,4 +36,6 @@ Ever since I joined GitHub {{ ACCOUNT_AGE }} years ago, I pushed {{ COMMITS }} c
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh1x4&theme=radical" /> -->
 </p>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Wave"></p> -->
