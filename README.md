@@ -4,17 +4,17 @@
 </p>
 
 ## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30">](https://g.dev/harsh1x4)
-Ever since I joined GitHub 1 years ago, I pushed 1108 commits, opened 14 issues, submitted 55 pull requests, created 61 personal projects, and contributed to 43 public repositories.<br>
+Ever since I joined GitHub 1 years ago, I pushed 1124 commits, opened 14 issues, submitted 55 pull requests, created 61 personal projects, and contributed to 43 public repositories.<br>
 <a href = "https://www.linkedin.com/in/harsh1x4"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://twitter.com/harsh1x4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-<!-- ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B147.1%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B136%25)
+<!-- ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B147%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B135.9%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B18.7%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B15.1%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B11.6%25)
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B10.7%25)
 ![Slim](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b2b2b&message=Slim%EF%B8%B10.3%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.3%25)
  -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsh1x4.harsh1x4)<br>
