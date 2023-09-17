@@ -1,18 +1,18 @@
 <p align="center">
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="Banner by halfrost">
-<!--<a href="https://www.linkedin.com/in/harsh1x4/" target="_blank"><img src="https://github.com/harsh1x4/harsh1x4/blob/main/BannerHighResGithub.png" alt="banner"></a>-->
+<!--<a href="https://www.linkedin.com/in/harsshhhgit/" target="_blank"><img src="https://github.com/harsshhhgit/harsshhhgit/blob/main/BannerHighResGithub.png" alt="banner"></a>-->
 </p>
 
-## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30">](https://g.dev/harsh1x4)
+## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30">](https://g.dev/harsshhhgit)
 Ever since I joined GitHub {{ ACCOUNT_AGE }} years ago, I pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, created {{ REPOSITORIES }} personal projects, and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.<br>
-<a href = "https://www.linkedin.com/in/harsh1x4"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://twitter.com/harsh1x4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/harsshhhin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://twitter.com/harsshhhtwt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 <!-- {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }} -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsh1x4.harsh1x4)<br>
-![visitors](https://count.getloli.com/get/@harsh1x4.github.readme)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsshhhgit.harsshhhgit)<br>
+![visitors](https://count.getloli.com/get/@harsshhhgit.github.readme)
 
 ### 🛠 Frameworks and Tools I'm interested in
 
@@ -30,14 +30,14 @@ Ever since I joined GitHub {{ ACCOUNT_AGE }} years ago, I pushed {{ COMMITS }} c
 <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" /></a>
 
 ### 📈 Github Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harsh1x4&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harsshhhgit&theme=react-dark&hide_border=true)
 
 ### ⚙️ Github Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harsh1x4&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh1x4&theme=radical&hide_border=true" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1x4&layout=compact&theme=radical&hide_border=true&show_icons=true" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh1x4&theme=radical" /> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harsshhhgit&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harsshhhgit&theme=radical&hide_border=true" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsshhhgit&layout=compact&theme=radical&hide_border=true&show_icons=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsshhhgit&theme=radical" /> -->
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
