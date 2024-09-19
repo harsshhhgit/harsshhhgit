@@ -4,7 +4,7 @@
 </p>
 
 ## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30">](https://g.dev/harsshhhgit)
-Ever since I joined GitHub 2 years ago, I pushed 1442 commits, opened 15 issues, submitted 68 pull requests, created 81 personal projects, and contributed to 3 public repositories.<br>
+Ever since I joined GitHub 2 years ago, I pushed 1446 commits, opened 15 issues, submitted 68 pull requests, created 81 personal projects, and contributed to 3 public repositories.<br>
 <a href = "https://www.linkedin.com/in/harsshhhin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://twitter.com/harsshhhtwt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 <!-- ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B145.9%25)
@@ -14,7 +14,7 @@ Ever since I joined GitHub 2 years ago, I pushed 1442 commits, opened 15 issues,
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B13.3%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B12.2%25)
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B10.7%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.5%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.6%25)
  -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsshhhgit.harsshhhgit)<br>
